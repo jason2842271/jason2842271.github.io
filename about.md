@@ -6,6 +6,6 @@ my goal in life to to become an engineer I have good grades I'm decent in school
 
 ## Navigation
 
-[Notebook](notebook.mdLinks to an external site.)
+[Notebook](notebook.md)
 
 [Home](index.md)
