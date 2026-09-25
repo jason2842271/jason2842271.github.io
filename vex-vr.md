@@ -7,9 +7,7 @@ The goal of this challenge/ competition was to make the robot go through the maz
 ### My Solution
 
 <img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/7db59f0b-f8dd-4fac-908b-89ac13ba1b99" />
-
-
-in this image it shows how I completed the color maze in the fastest time, what the code is, and how fast I got. If you look at the left side of the screen it shows two different numbers, those are some of the times that I got.
+in this image it shows how I completed the color maze in the fastest time, what the code is, and how fast I got. If you look at the right side of the screen it shows two different numbers, those are some of the times that I got.
 
 ### What I Learned
 
