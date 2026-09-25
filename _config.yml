@@ -2,4 +2,4 @@ title: My DevCat Studios Portfolio
 description: This is my portfolio showcasing my projects and skills.
 baseurl:
 url: "https://jason2842271.github.io" # 
-theme: theme: jekyll-theme-galaxy
+theme: theme: jekyll-theme-hacker
