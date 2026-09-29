@@ -2,7 +2,7 @@
 
 ### Goal
 
-The goal of this challenge/ competition was to make the robot go through the maze to the end and back through the maze in the fastest time possible with using blocks like (when front eye sees green[...]
+The goal of this challenge/ competition was to make the robot go through the maze to the end and back through the maze in the fastest time possible with using blocks like (when front eye sees green turn left 90 degrees) [...]
 
 ### My Solution
 
